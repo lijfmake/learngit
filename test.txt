@@ -1,0 +1,1 @@
+Git has as mutble index called stage
